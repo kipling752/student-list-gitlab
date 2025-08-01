@@ -86,7 +86,7 @@ POZOS will give you information to build the API container
 
 - Base image
 
-To build API image you must use "python:3.8-buster"
+To build API image you must use "python:3.11-slim"
 
 - Maintainer
 
